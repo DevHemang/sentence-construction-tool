@@ -15,7 +15,7 @@ const App = () => {
 
   useEffect(() => {
     setLoading(true);
-    axios.get('/api')
+    axios.get('/api/questions')
       .then(response => {
         console.log('Raw Response:', response.data);
         const questionsData = response.data.data?.questions || response.data.questions || [];
