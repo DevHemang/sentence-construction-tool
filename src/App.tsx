@@ -15,7 +15,7 @@ const App = () => {
 
   useEffect(() => {
     setLoading(true);
-    axios.get('http://localhost:3000/data')
+    axios.get('https://json-server-api.vercel.app')
       .then(response => {
         console.log('Raw Response:', response.data);
         const questionsData = response.data.data?.questions || response.data.questions || [];
