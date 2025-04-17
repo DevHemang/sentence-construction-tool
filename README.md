@@ -1,17 +1,26 @@
-Sentence Construction Tool
-A React-based web application for practicing sentence completion with timed questions and feedback.
-Features
+# Sentence Construction Tool
 
-Start screen with game info
-30-second timer per question
-Progress bar
-Word selection in correct order
-Feedback screen with score (out of 100)
-Responsive design
-TypeScript for type safety
-Tailwind CSS for styling
+A React-based web application for practicing sentence construction with timed questions and feedback. Built using TypeScript, Tailwind CSS, and Axios, with a JSON server as the backend.
 
-File Structure
+## Live Demo
+
+View the live project here (vercel):  
+👉 [https://sentence-construction-tool-gray.vercel.app](https://sentence-construction-tool-gray.vercel.app)
+
+## Features
+
+- Start screen with game information  
+- 30-second timer per question  
+- Progress bar to show question progress  
+- Select words in the correct order  
+- Feedback screen with a score out of 100  
+- Responsive design  
+- TypeScript for type safety  
+- Tailwind CSS for styling  
+
+## File Structure
+
+```
 sentence-construction-tool/
 ├── public/
 │   └── vite.svg
@@ -24,51 +33,48 @@ sentence-construction-tool/
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── index.css
+├── db.json
+├── server.js
+├── vercel.json
 ├── index.html
 ├── tailwind.config.js
 ├── vite.config.ts
 ├── package.json
 └── README.md
+```
 
-Setup
+## Setup
 
-Clone the repository
-Install dependencies:
+1. Clone the repository:
+   ```
+   git clone https://github.com/DevHemang/sentence-construction-tool.git
+   ```
 
-npm install
+2. Install dependencies:
+   ```
+   npm install
+   ```
 
+3. Start the development server:
+   ```
+   npm run dev
+   ```
 
-Run JSON Server with the provided JSON data:
+## Deployment
 
-npx json-server --watch db.json --port 3000
+1. Build the project:
+   ```
+   npm run build
+   ```
 
+2. Deploy using [Vercel](https://vercel.com), [Netlify](https://www.netlify.com/), or any static hosting service.
 
-Start the development server:
+If you’re using JSON Server with Vercel, ensure `vercel.json` and `server.js` are properly configured.
 
-npm run dev
+## Dependencies
 
-Deployment
-
-Build the project:
-
-npm run build
-
-
-Deploy to Vercel/Netlify using their CLI or GitHub integration
-
-Dependencies
-
-React 18
-TypeScript
-Tailwind CSS
-Axios
-Vite
-
-Development
-
-Uses Vite for fast development
-TypeScript for type safety
-Tailwind CSS for responsive styling
-Component-based architecture
-Proper state management for game flow
-
+- React  
+- TypeScript  
+- Tailwind CSS  
+- Axios  
+- Vite  
