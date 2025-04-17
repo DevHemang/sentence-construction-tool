@@ -15,7 +15,7 @@ const App = () => {
 
   useEffect(() => {
     setLoading(true);
-    axios.get('/db.json')  // Fetch directly from the static public directory
+    axios.get('./db.json')  // Fetch directly from the static public directory
       .then(response => {
         console.log('Raw Response:', response.data);
         const questionsData = response.data.data?.questions || response.data.questions || [];
