@@ -1,0 +1,89 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "testId": "oihq2eo9h1029921-210-20112",
+    "questions": [
+      {
+        "questionId": "b28af948-db8b-465e-92e6-3d42534c4533",
+        "question": "The company's ____ approach to product development ____ customer feedback at every stage, ____ user satisfaction and ____ a loyal consumer base.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Incorporated", "User-centric", "Enhancing", "Cultivating"],
+        "correctAnswer": ["User-centric", "Incorporated", "Enhancing", "Cultivating"]
+      },
+      {
+        "questionId": "6e6534ea-260a-4c26-96fd-f830b27601fb",
+        "question": "The ____ musical performance ____ elements from various genres, ____ the audience with its unique sound and ____ critical acclaim from industry experts.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Captivating", "Eclectic", "Garnering", "Blended"],
+        "correctAnswer": ["Eclectic", "Blended", "Captivating", "Garnering"]
+      },
+      {
+        "questionId": "7186e3da-0384-460a-af19-5a3984758e78",
+        "question": "The scientist's ____ research on quantum computing ____ new possibilities for data processing, ____ traditional limitations and ____ the way for groundbreaking technological advancements.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Pioneering", "Paving", "Overcoming", "Opened up"],
+        "correctAnswer": ["Pioneering", "Opened up", "Overcoming", "Paving"]
+      },
+      {
+        "questionId": "10cbe3c2-13bb-4973-a794-18bf309b0791",
+        "question": "The ____ implementation of machine learning algorithms in medical diagnostics ____ early detection of diseases, ____ treatment outcomes and ____ the workload of healthcare professionals.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Improving", "Reducing", "Enabled", "Revolutionary"],
+        "correctAnswer": ["Revolutionary", "Enabled", "Improving", "Reducing"]
+      },
+      {
+        "questionId": "71ffe41e-8732-48e6-87f2-f84ea07eb060",
+        "question": "The ____ security breach at the tech giant ____ millions of users' data, ____ concerns about online privacy and ____ calls for stricter regulations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Raising", "Massive", "Prompting", "Compromised"],
+        "correctAnswer": ["Massive", "Compromised", "Raising", "Prompting"]
+      },
+      {
+        "questionId": "48b9b4bd-5c2c-4c25-92c0-ce453b14e8d7",
+        "question": "The ____ educational reform ____ a more inclusive curriculum, ____ equal opportunities for all students and ____ the overall quality of public schooling.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Enhancing", "Implemented", "Promoting"],
+        "correctAnswer": ["Comprehensive", "Implemented", "Promoting", "Enhancing"]
+      },
+      {
+        "questionId": "ed5e6e2d-8408-406e-be32-777ac26460e2",
+        "question": "The company's ____ commitment to sustainability ____ eco-friendly practices across all departments, ____ its carbon footprint and ____ a model for corporate responsibility.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Implemented", "Setting", "Unwavering", "Reducing"],
+        "correctAnswer": ["Unwavering", "Implemented", "Reducing", "Setting"]
+      },
+      {
+        "questionId": "936eccaa-2f3b-4322-a3d3-ceabf2219dc5",
+        "question": "The ____ implementation of artificial intelligence in healthcare ____ patient outcomes, ____ the workload of medical professionals and ____ new avenues for personalized treatment.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Opening", "Improved", "Gradual", "Reducing"],
+        "correctAnswer": ["Gradual", "Improved", "Reducing", "Opening"]
+      },
+      {
+        "questionId": "d78effdf-88ab-4667-8115-3bfb2baa0a24",
+        "question": "The ____ festival ____ artists from diverse backgrounds, ____ cultural exchange and ____ a platform for emerging talents to showcase their work.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Providing", "Brought together", "Promoting", "International"],
+        "correctAnswer": ["International", "Brought together", "Promoting", "Providing"]
+      },
+      {
+        "questionId": "2d08ec76-a253-4f34-bc45-e12ef21b78fb",
+        "question": "The ____ implementation of smart city technologies ____ urban efficiency and sustainability, ____ quality of life for residents and ____ a model for future urban development.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Enhancing", "Improved", "Providing", "Widespread"],
+        "correctAnswer": ["Widespread", "Improved", "Enhancing", "Providing"]
+      }
+    ]
+  }
+}
+
